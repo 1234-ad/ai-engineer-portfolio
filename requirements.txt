@@ -1,0 +1,40 @@
+# Core ML/AI Libraries
+torch>=1.12.0
+torchvision>=0.13.0
+tensorflow>=2.10.0
+scikit-learn>=1.1.0
+numpy>=1.21.0
+pandas>=1.4.0
+
+# NLP Libraries
+transformers>=4.20.0
+spacy>=3.4.0
+nltk>=3.7
+
+# Computer Vision
+opencv-python>=4.6.0
+Pillow>=9.0.0
+
+# Web Framework
+fastapi>=0.85.0
+uvicorn>=0.18.0
+pydantic>=1.10.0
+
+# Data Processing
+matplotlib>=3.5.0
+seaborn>=0.11.0
+plotly>=5.10.0
+
+# Utilities
+requests>=2.28.0
+python-multipart>=0.0.5
+python-dotenv>=0.20.0
+
+# Development
+pytest>=7.1.0
+black>=22.6.0
+flake8>=5.0.0
+
+# Cloud & Deployment
+boto3>=1.24.0
+docker>=6.0.0
